@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/squeige/tictactoe.io.git/static/css/main.ba767c7c.chunk.css",
+    "main.js": "/squeige/tictactoe.io.git/static/js/main.59d9c44f.chunk.js",
+    "main.js.map": "/squeige/tictactoe.io.git/static/js/main.59d9c44f.chunk.js.map",
+    "runtime~main.js": "/squeige/tictactoe.io.git/static/js/runtime~main.5bfaaa4e.js",
+    "runtime~main.js.map": "/squeige/tictactoe.io.git/static/js/runtime~main.5bfaaa4e.js.map",
+    "static/js/2.0e3f6a1a.chunk.js": "/squeige/tictactoe.io.git/static/js/2.0e3f6a1a.chunk.js",
+    "static/js/2.0e3f6a1a.chunk.js.map": "/squeige/tictactoe.io.git/static/js/2.0e3f6a1a.chunk.js.map",
+    "index.html": "/squeige/tictactoe.io.git/index.html",
+    "precache-manifest.a8f589e3448d1f3e2e949f6f54d9ffbf.js": "/squeige/tictactoe.io.git/precache-manifest.a8f589e3448d1f3e2e949f6f54d9ffbf.js",
+    "service-worker.js": "/squeige/tictactoe.io.git/service-worker.js",
+    "static/css/main.ba767c7c.chunk.css.map": "/squeige/tictactoe.io.git/static/css/main.ba767c7c.chunk.css.map"
+  }
+}
