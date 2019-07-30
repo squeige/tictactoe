@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/squeige/tictactoe.git/static/css/main.ba767c7c.chunk.css",
-    "main.js": "/squeige/tictactoe.git/static/js/main.59d9c44f.chunk.js",
-    "main.js.map": "/squeige/tictactoe.git/static/js/main.59d9c44f.chunk.js.map",
-    "runtime~main.js": "/squeige/tictactoe.git/static/js/runtime~main.ee7d83d2.js",
-    "runtime~main.js.map": "/squeige/tictactoe.git/static/js/runtime~main.ee7d83d2.js.map",
-    "static/js/2.0e3f6a1a.chunk.js": "/squeige/tictactoe.git/static/js/2.0e3f6a1a.chunk.js",
-    "static/js/2.0e3f6a1a.chunk.js.map": "/squeige/tictactoe.git/static/js/2.0e3f6a1a.chunk.js.map",
-    "index.html": "/squeige/tictactoe.git/index.html",
-    "precache-manifest.02b6ce0afb1f2c801de0baddce337862.js": "/squeige/tictactoe.git/precache-manifest.02b6ce0afb1f2c801de0baddce337862.js",
-    "service-worker.js": "/squeige/tictactoe.git/service-worker.js",
-    "static/css/main.ba767c7c.chunk.css.map": "/squeige/tictactoe.git/static/css/main.ba767c7c.chunk.css.map"
+    "main.css": "/tictactoe/static/css/main.ba767c7c.chunk.css",
+    "main.js": "/tictactoe/static/js/main.59d9c44f.chunk.js",
+    "main.js.map": "/tictactoe/static/js/main.59d9c44f.chunk.js.map",
+    "runtime~main.js": "/tictactoe/static/js/runtime~main.1cfd47c4.js",
+    "runtime~main.js.map": "/tictactoe/static/js/runtime~main.1cfd47c4.js.map",
+    "static/js/2.0e3f6a1a.chunk.js": "/tictactoe/static/js/2.0e3f6a1a.chunk.js",
+    "static/js/2.0e3f6a1a.chunk.js.map": "/tictactoe/static/js/2.0e3f6a1a.chunk.js.map",
+    "index.html": "/tictactoe/index.html",
+    "precache-manifest.e0be3ad4ea5332d477c8c07f18321ce9.js": "/tictactoe/precache-manifest.e0be3ad4ea5332d477c8c07f18321ce9.js",
+    "service-worker.js": "/tictactoe/service-worker.js",
+    "static/css/main.ba767c7c.chunk.css.map": "/tictactoe/static/css/main.ba767c7c.chunk.css.map"
   }
 }
